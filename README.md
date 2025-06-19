@@ -2,6 +2,7 @@
 A simple Android app for managine song playlists. 
 
 Song addition to playlist
+
 ![image](https://github.com/user-attachments/assets/fd6c98a6-017e-422a-a645-72406f5fb5f2)
 
 
@@ -71,20 +72,26 @@ A: Currently, you need to restart the app to clear the playlist. Future versions
 
 
 View the playlist and calculate average rating
+
 ![Playlist View](https://github.com/user-attachments/assets/07850d39-dd50-43b1-a50f-9dc96b473c85)
 
 
 Full Android studio with Bluestacks emulating phone
+Android Studio emulator was not working so I used Bluestacks to emulate my application and conduct testing
 
 ![image](https://github.com/user-attachments/assets/62885bb6-ef60-42e3-bc2d-ddb45f9b3641)
 
 
 Some of the code to add songs to the playlist
+Firstly, the code checks to see if there is even any input from the user and puts out an error toast if it is empty.
+Once that check is complete, then it proceedes with accepting input and handling it, adding user input into the arrays and handling potential error.s
 
 ![image](https://github.com/user-attachments/assets/eb759f0b-2572-4930-a0d6-bcd748995617)
 
 
 Some of the code for displaying the playlist
+Here, the code first checks if the global arrays where the content would be is empty, if empty, displays toast, if not, populates what is in them.
+From there, the average rating can be calculated and displayed
 
 ![image](https://github.com/user-attachments/assets/115425e5-8b48-4f4b-9083-fa58dfd08080)
 
