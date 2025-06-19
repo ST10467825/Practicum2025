@@ -43,7 +43,7 @@ A simple Android app for managine song playlists.
 4. Exit App
    - Click "Exit app" to close the application
   
-##FAQ❓
+## FAQ❓
 ### Q: Why can I only add 4 songs?
 A: This was specifically done to keep the playlist small and light on system resources
 
@@ -61,4 +61,5 @@ A: Currently, you need to restart the app to clear the playlist. Future versions
 *Developed by Kgomotso Mbele for HAW1 IMAD5112 - 2025*
 
 
+![Playlist View](![image](https://github.com/user-attachments/assets/07850d39-dd50-43b1-a50f-9dc96b473c85)
 
