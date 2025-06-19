@@ -61,5 +61,13 @@ A: Currently, you need to restart the app to clear the playlist. Future versions
 *Developed by Kgomotso Mbele for HAW1 IMAD5112 - 2025*
 
 
-![Playlist View](![image](https://github.com/user-attachments/assets/07850d39-dd50-43b1-a50f-9dc96b473c85)
+## Screenshots
+
+
+
+
+
+
+
+![Playlist View](https://github.com/user-attachments/assets/07850d39-dd50-43b1-a50f-9dc96b473c85)
 
