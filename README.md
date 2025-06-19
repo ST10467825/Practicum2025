@@ -1,7 +1,9 @@
 # Music Playlist Manager 
 A simple Android app for managine song playlists. 
 
-![image](https://github.com/user-attachments/assets/68285451-b2eb-4c29-9645-f594df315672)
+Song addition to playlist
+![image](https://github.com/user-attachments/assets/fd6c98a6-017e-422a-a645-72406f5fb5f2)
+
 
 ## Features ✨
 - Add up to 4 songs with details:
@@ -68,6 +70,6 @@ A: Currently, you need to restart the app to clear the playlist. Future versions
 
 
 
-
+View the playlist and calculate average rating
 ![Playlist View](https://github.com/user-attachments/assets/07850d39-dd50-43b1-a50f-9dc96b473c85)
 
